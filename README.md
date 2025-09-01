@@ -114,3 +114,6 @@ You can also run the applications by using the instructions located in their `Do
 We have some great contributions from the community, and while these aren't maintained by Microsoft we still want to highlight them.
 
 [eShopOnWeb VB.NET](https://github.com/VBAndCs/eShopOnWeb_VB.NET) by Mohammad Hamdy Ghanem
+
+
+<!-- Security scan triggered at 2025-09-01 20:14:55 -->
